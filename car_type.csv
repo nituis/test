@@ -1,0 +1,16 @@
+car_type,driver_age,children,lives_in_city
+sedan,23,0,yes
+sports,31,1,no
+sedan,36,1,no
+truck,25,2,no
+sports,30,0,no
+sedan,36,0,no
+sedan,25,0,yes
+truck,36,1,no
+sedan,30,2,yes
+sedan,31,1,yes
+sports,25,0,no
+sedan,25,0,no
+sedan,45,1,yes
+sports,23,2,no
+truck,45,0,yes
