@@ -1,5 +1,9 @@
 C:\Users\Nituis\Documents\DOCUMENTS\PROJECT\test
 HI
+<<<<<<< HEAD
 from test
 bye
+=======
+from github
+>>>>>>> 017fc465d5919bec2926c88e054c215d4fd738b4
 
