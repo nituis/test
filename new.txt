@@ -1,4 +1,5 @@
 C:\Users\Nituis\Documents\DOCUMENTS\PROJECT\test
 HI
 from test
+bye
 
